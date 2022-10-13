@@ -1,0 +1,2 @@
+Primary = #29E2FF
+Background = #3F3F3F
